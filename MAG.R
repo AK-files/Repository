@@ -32,7 +32,7 @@
 # https://static.usagym.org/PDFs/Results/2024/m_24champs_sraa.pdf
 # https://static.usagym.org/PDFs/Results/2024/m_24trials_aa.pdf
 
-MAG <- read.csv("MAG_OLY24.csv")
+MAG <- read.csv("~/MAG_OLY24.csv")
 
 # Step 1: Check & clean data
 
