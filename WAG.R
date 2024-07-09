@@ -32,7 +32,7 @@
 # https://static.usagym.org/PDFs/Results/2024/w_24champs_sraa.pdf
 # https://static.usagym.org/PDFs/Results/2024/w_24trials_aa.pdf
 
-WAG <- read.csv("WAG_OLY24.csv")
+WAG <- read.csv("https://raw.githubusercontent.com/AK-files/Repository/main/WAG_OLY24.csv")
 
 # Shilese Jones dropped out because of an injury
 WAG <- WAG[-14, ] 
